@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my dev blog.
+
+
+- [x] #1
+- [ ] https://github.com/justinshortio/justinshortio.github.io/issues/1
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+
 
 You can use the [editor on GitHub](https://github.com/justinshortio/justinshortio.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
